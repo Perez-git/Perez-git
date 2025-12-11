@@ -1,4 +1,11 @@
 ## Hi there 👋
+Im Sergio Perez, CS student @ VCU.
+
+Working on building skills to become a Software Developer!
+
+## Fun Facts:
+  - Ran a marathon
+  - I have one cat
 
 <!--
 **Perez-git/Perez-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
