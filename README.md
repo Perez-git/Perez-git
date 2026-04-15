@@ -1,7 +1,7 @@
 # Hello! I'm Sergio Perez-Ibarra
 
 <p align="center">
-  <img src="./pics/VCU_Rams.png" width="120" />
+  <img src="VCU_Rams.png" width="120" />
 </p>
 
 🎓 Computer Science student at Virginia Commonwealth University  
