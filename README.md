@@ -1,4 +1,4 @@
-# Hello!, I'm Sergio Perez-Ibarra ![vcu](https://commons.wikimedia.org/wiki/File:VCU_Rams.png#/media/File:VCU_Rams.png)]
+# Hello!, I'm Sergio Perez-Ibarra ![vcu](pics/VCU_Rams.png)
 
 🎓 Computer Science student at Virginia Commonwealth University  
 💻 Focused on Software Engineering, Mobile Development, and Full-Stack Systems  
