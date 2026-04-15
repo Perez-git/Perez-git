@@ -1,28 +1,41 @@
-## Hello! <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f422/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f422/512.gif" alt="🐢" width="32" height="32"><picture>
+# Hello!, I'm Sergio Perez-Ibarra ![vcu](https://commons.wikimedia.org/wiki/File:VCU_Rams.png#/media/File:VCU_Rams.png)]
 
-Im Sergio Perez, CS student @ VCU. <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32">
-</picture>
+🎓 Computer Science student at Virginia Commonwealth University  
+💻 Focused on Software Engineering, Mobile Development, and Full-Stack Systems  
+🚀 Passionate about building real-world applications from research and ideas  
 
-Working on building skills to become a Software Developer! <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32">
-</picture>
+I'm a Computer Science student with hands-on experience in web app development, backend systems, and applied research. I enjoy turning complex ideas—especially from research papers—into functional, user-friendly applications.
 
-## Fun Facts: <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32"></picture>
-  - Ran a marathon
-  - I have a cat
+Currently, I’m working in a biomedical devices lab, developing web apps that integrate with real hardware systems.
 
-<!--
-**Perez-git/Perez-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## 📫 Contact Me
+📧 Perezibarrs@vcu.edu  
+🔗 LinkedIn: https://linkedin.com/in/sergio-perez-ibarra  
 
-Here are some ideas to get you started:
+--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![My Skills](https://skillicons.dev/icons?i=java,py,js,swift,c,&theme=light)
+---
+
+### ⚙️ Frameworks & Technologies
+
+![My Skills](https://skillicons.dev/icons?i=flask,sqlite,docker,androidstudio&theme=light)
+
+---
+
+### 🛠️ Tools
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+## 📌 Currently Working On
+- web applications for biomedical devices  
+- Improving full-stack architecture skills  
+- Exploring AI + software integration
+- Exploring Quantum Computing
