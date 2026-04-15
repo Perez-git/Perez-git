@@ -1,8 +1,9 @@
 # Hello! I'm Sergio Perez-Ibarra
 
 <p align="center">
-  <img src="pics/VCU_Rams.png" alt="VCU Logo" width="120"/>
+  <img src="./pics/VCU_Rams.png" width="120" />
 </p>
+
 🎓 Computer Science student at Virginia Commonwealth University  
 💻 Focused on Software Engineering, Mobile Development, and Full-Stack Systems  
 🚀 Passionate about building real-world applications from research and ideas  
