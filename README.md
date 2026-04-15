@@ -7,7 +7,6 @@
 Currently, I’m working in a biomedical devices lab, developing web apps that integrate with real hardware systems.
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -17,7 +16,6 @@ Currently, I’m working in a biomedical devices lab, developing web apps that i
 ### ⚙️ Frameworks & Technologies
 
 ![My Skills](https://skillicons.dev/icons?i=flask,sqlite,docker,androidstudio&theme=light)
-
 ---
 ### 🛠️ Tools
 ![My Skills](https://skillicons.dev/icons?i=git,github,Chrome,RestAPI&theme=light)
