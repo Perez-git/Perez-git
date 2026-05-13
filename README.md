@@ -24,7 +24,7 @@ Currently, I’m working in a biomedical devices lab, developing web apps that i
 ---
 
 ## 📌 Currently Working On
-- web applications for biomedical devices  
+- Software for biomedical devices  
 - Improving full-stack architecture skills  
 - Exploring AI + software integration
 - Exploring Quantum Computing
